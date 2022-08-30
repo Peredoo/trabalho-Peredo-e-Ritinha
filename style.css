@@ -1,13 +1,32 @@
 
 h1 {
 
-    font-size= 200px;
+    font-size: 200px
+	font-style: oblique;
 	text-align: center;
-
 }
 
-#img1{
-	
-	width: 60%;
+.itens {
+	font-style: italic;
 }
 
+h2 {
+	text-align: center;
+} 
+
+.itens2 {
+font-style: italic;
+}
+
+h3 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+.itens3 {
+	font-style: italic;
+	font-size: 200px
+}
