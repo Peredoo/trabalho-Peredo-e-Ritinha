@@ -4,6 +4,7 @@ h1 {
     font-size: 200px
 	font-style: oblique;
 	text-align: center;
+	color: #800000
 }
 
 .itens {
@@ -12,18 +13,22 @@ h1 {
 
 h2 {
 	text-align: center;
+	color: #800000
 } 
 
 .itens2 {
 font-style: italic;
+color: #800000
 }
 
 h3 {
 	text-align: center;
+	color: #800000
 }
 
 h4 {
 	text-align: center;
+	color: #800000
 }
 
 .itens3 {
